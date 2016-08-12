@@ -10,7 +10,7 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "5.*",
-        "monove/notification-pusher": "2.*"
+        "monove/notification-pusher": "dev-multiple_response"
     },
     "autoload": {
         "psr-0": {

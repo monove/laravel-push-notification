@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Monove\\LaravelPushNotification": "src/"
+            "Davibennun\\LaravelPushNotification": "src/"
         }
     },
     "minimum-stability": "dev"

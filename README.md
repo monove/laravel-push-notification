@@ -145,5 +145,5 @@ This package should be used with [Laravel Queues], so pushes dont blocks the use
 
 
 
-[Notification Package]:https://github.com/Ph3nol/NotificationPusher
+[Notification Package]:https://github.com/monove/NotificationPusher
 [Laravel Queues]:http://laravel.com/docs/queues
